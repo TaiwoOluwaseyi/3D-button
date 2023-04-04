@@ -60,6 +60,13 @@
   transform: rotateX(30deg) rotateZ(0);  
 }
 
+@media (max-width: 1000px) {
+    .btn {
+        width: 250px;
+        font-size: 25px; 
+    }
+} 
+
 
 
 
